@@ -1,5 +1,7 @@
 # Neural Network from Scratch (NumPy only)
 
+[![CI](https://github.com/YOUR_USERNAME/neural-network-from-scratch/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/neural-network-from-scratch/actions/workflows/ci.yml)
+
 <p align="center">
   <img src="outputs/moons.gif" width="420" alt="decision boundary forming on two-moons"/>
   <img src="outputs/spirals.gif" width="420" alt="decision boundary forming on two spirals"/>
