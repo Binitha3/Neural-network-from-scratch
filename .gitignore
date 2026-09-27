@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# datasets are reproducible via scripts (data/ is downloaded+cached)
+data/
+
+# environments
+.venv/
+venv/
